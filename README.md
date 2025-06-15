@@ -15,12 +15,6 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/VFIuIjswMKM
 
 
-
-## Badges
-
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-
 ## Questions Answered
 
 * What are the most popular genres of music?
